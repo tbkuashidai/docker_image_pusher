@@ -1,2 +1,2 @@
 nginx
-linuxserver/qbittorrent
+lscr.io/linuxserver/qbittorrent:latest
