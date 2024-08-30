@@ -1,2 +1,3 @@
 nginx
-lscr.io/linuxserver/qbittorrent:latest
+linuxserver/qbittorrent:arm32v7-latest
+linuxserver/qbittorrent:arm64v8-latest
