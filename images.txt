@@ -1,4 +1,4 @@
 nginx
 linuxserver/qbittorrent:arm32v7-latest
 linuxserver/qbittorrent:arm64v8-latest
-whyour/qinglong
+whyour/qinglong:2.17.10
