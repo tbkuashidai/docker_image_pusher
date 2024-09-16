@@ -1,3 +1,5 @@
-sanjusss/aliyun-ddns:linux-arm64v8
+sanjusss/aliyun-ddns:linux-arm32v7
+sanjusss/aliyun-ddns:linux-arm64v7
+sanjusss/aliyun-ddns:linux-armv8
 linuxserver/qbittorrent:arm64v8-latest
 ghcr.io/whyour/qinglong:2.17.10@sha256:c28761db9d9b7f4885fb19447f69df3d42a866f79d985d77e675e135c86a01de
