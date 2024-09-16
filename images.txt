@@ -1,1 +1,1 @@
-sanjusss/aliyun-ddns:linux-arm64
+sanjusss/aliyun-ddns:linux-armv8
