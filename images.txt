@@ -1,1 +1,1 @@
-sanjusss/aliyun-ddns:linux-armv8
+ghcr.io/jeessy2/ddns-go:v6.7.0@sha256:8a85d9e6afc4109da46f181c474c3063a42c136feda13e9633252892b13318cf
