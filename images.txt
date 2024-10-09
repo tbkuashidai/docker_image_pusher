@@ -1,1 +1,2 @@
-ghcr.io/p3terx/aria2-pro:202209060423@sha256:b121ddfd839a17397238368e1628364f530cdb0e356cc4895d9cd03c99827004
+ghcr.io/immich-app/immich-server:pr-13126@sha256:795d75482dffb95843b2a52ce6ee02a68e06a813634e1f40061fb73e9bbca2c6
+ghcr.io/immich-app/immich-machine-learning:pr-13295-armnn@sha256:095f65f8b8e1dcad3106e6e4e003122e541ec45a4ba5555095894a8cc1effbc7
