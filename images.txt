@@ -1,4 +1,1 @@
-ghcr.io/immich-app/immich-server:pr-13126@sha256:795d75482dffb95843b2a52ce6ee02a68e06a813634e1f40061fb73e9bbca2c6
-ghcr.io/immich-app/immich-machine-learning:pr-13295-armnn@sha256:095f65f8b8e1dcad3106e6e4e003122e541ec45a4ba5555095894a8cc1effbc7
-docker.io/redis:6.2-alpine@sha256:2d1463258f2764328496376f5d965f20c6a67f66ea2b06dc42af351f75248792
-docker.io/tensorchord/pgvecto-rs:pg14-v0.2.0@sha256:90724186f0a3517cf6914295b5ab410db9ce23190a2d9d0b9dd6463e3fa298f0
+--platform=linux/arm/v7 vaultwarden/server:1.33.2-alpine
