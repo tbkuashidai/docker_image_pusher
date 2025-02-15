@@ -1,1 +1,2 @@
---platform=linux/arm/v7 vaultwarden/server:1.33.2-alpine
+--platform=linux/arm64 vaultwarden/server:1.33.2-alpine
+--platform=linux/arm64/v8 nginx:1.27.4-alpine
