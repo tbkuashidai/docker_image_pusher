@@ -1,1 +1,1 @@
---platform=linux/arm64 mariadb:lts
+--platform=linux/arm64 whyour/qinglong:2.18
