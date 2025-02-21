@@ -1,2 +1,2 @@
 --platform=linux/arm64 whyour/qinglong:2.18
-
+--platform=linux/arm64 openjdk:8-jre-alpine
