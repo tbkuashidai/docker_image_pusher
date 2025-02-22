@@ -1,3 +1,2 @@
+ghcr.io/kovah/linkace:v2.1.3@sha256:64bcfe6c2153f3559b3848aec7eb6b152edf5ed4541680b7f4834f51fdb89379
 --platform=linux/arm64 postgres:16-alpine
---platform=linux/arm64 ghcr.io/linkwarden/linkwarden:v2.9.3
---platform=linux/arm64 openjdk:8
