@@ -1,2 +1,2 @@
---platform=linux/arm64 beromir/servas:v0.4.1
+--platform=linux/arm64 beromir/servas:0.4.1
 
