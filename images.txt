@@ -1,2 +1,3 @@
---platform=linux/arm64 beromir/servas:0.4.1
+--platform=linux/arm64 wallabag/wallabag:2.6.10
+
 
