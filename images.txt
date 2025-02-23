@@ -1,2 +1,2 @@
---platform=linux/arm64 node:14.16.0-alpine
+--platform=linux/arm64 beromir/servas:v0.4.1
 
