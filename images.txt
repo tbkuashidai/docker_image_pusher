@@ -1,1 +1,1 @@
---platform=linux/arm64 beromir/servas
+--platform=linux/arm64 mongo:4.4.4
