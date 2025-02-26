@@ -1,3 +1,5 @@
---platform=linux/arm64 mekayelanik/samba-server-alpine:latest
+--platform=linux/arm64 mekayelanik/samba-server-alpine:4.20.6-r1
+
+
 
 
