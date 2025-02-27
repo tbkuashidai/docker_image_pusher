@@ -1,4 +1,4 @@
---platform=linux/arm64 mekayelanik/samba-server-alpine:4.20.6-r1
+--platform=linux/arm64 dockurr/samba:4.21.4
 
 
 
