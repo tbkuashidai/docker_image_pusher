@@ -1,4 +1,4 @@
---platform=linux/arm64 gogs/gogs:latest
+--platform=linux/arm64 jeessy/ddns-go:v6.8.1
 
 
 
