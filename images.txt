@@ -1,4 +1,4 @@
---platform=linux/arm64 dperson/samba:latest
+--platform=linux/arm64 bestoray/pgyvpn:latest
 
 
 
