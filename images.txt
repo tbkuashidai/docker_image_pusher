@@ -1,4 +1,4 @@
---platform=linux/arm64 germannewsmaker/myspeed:latest
+--platform=linux/arm64 germannewsmaker/myspeed:development
 
 
 
