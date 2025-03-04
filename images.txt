@@ -1,4 +1,4 @@
---platform=linux/arm64 jeessy/ddns-go:v6.8.1
+--platform=linux/arm64 germannewsmaker/myspeed:latest
 
 
 
