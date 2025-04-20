@@ -1,4 +1,4 @@
---platform=linux/arm64 germannewsmaker/myspeed:development
+--platform=linux/arm64 ugeek/webdav:arm64
 
 
 
