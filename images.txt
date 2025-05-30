@@ -1,6 +1,6 @@
-dockurr/windows:4.34
+--platform=linux/arm64 ypptec/nascab:3.5.8
 #ghcr.io/dockur/windows:4.34
---platform=linux/arm64 ugeek/webdav:arm64
+#--platform=linux/arm64 ugeek/webdav:arm64
 
 
 
