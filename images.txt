@@ -1,4 +1,4 @@
---platform=linux/arm64 samwaf/samwaf:beta
+--platform=linux/arm64 filebrowser/filebrowser:v2-s6
 #ghcr.io/dockur/windows:4.34
 #--platform=linux/arm64 ugeek/webdav:arm64
 
