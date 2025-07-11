@@ -1,4 +1,4 @@
---platform=linux/arm64 p3terx/aria2-pro:test
+--platform=linux/arm64 p3terx/ariang:test
 #ghcr.io/dockur/windows:4.34
 #--platform=linux/arm64 ugeek/webdav:arm64
 
