@@ -1,4 +1,4 @@
---platform=linux/arm64 gtstef/filebrowser:latest
+--platform=linux/arm64 gtstef/filebrowser:beta
 #ghcr.io/dockur/windows:4.34
 #--platform=linux/arm64 ugeek/webdav:arm64
 
