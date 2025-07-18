@@ -1,4 +1,4 @@
---platform=linux/arm64 gtstef/filebrowser:beta
+--platform=linux/arm64 linuxserver/homeassistant:2025.7.2
 #ghcr.io/dockur/windows:4.34
 #--platform=linux/arm64 ugeek/webdav:arm64
 
