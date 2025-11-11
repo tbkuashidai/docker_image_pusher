@@ -1,6 +1,8 @@
-triatk/univpn:10781.18.1.512
+--platform=linux/arm64 zerotier/zerotier:latest
+--platform=linux/amd64 zerotier/zerotier:latest
+#triatk/univpn:10781.18.1.512
 #registry.cn-shanghai.aliyuncs.com/zhinian-software/xianyu-auto-reply:1.0
-#--platform=linux/arm64 linuxserver/homeassistant:2025.7.2
+#--platform=linux/arm64 linuxserver/homeassistant:2025.7.2#--platform=linux/arm64 linuxserver/homeassistant:2025.7.2
 #ghcr.io/dockur/windows:4.34
 #--platform=linux/arm64 ugeek/webdav:arm64
 
