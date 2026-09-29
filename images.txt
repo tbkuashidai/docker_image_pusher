@@ -1,5 +1,5 @@
---platform=linux/arm64 zerotier/zerotier:latest
---platform=linux/amd64 zerotier/zerotier:latest
+ghcr.io/23star/xianyu-super-butler:latest@sha256:8e9e54d44410d358f9a96c4835606c27a1115aeeba4fdfeb5ea92807bf84bee4
+#--platform=linux/amd64 zerotier/zerotier:latest
 #triatk/univpn:10781.18.1.512
 #registry.cn-shanghai.aliyuncs.com/zhinian-software/xianyu-auto-reply:1.0
 #--platform=linux/arm64 linuxserver/homeassistant:2025.7.2#--platform=linux/arm64 linuxserver/homeassistant:2025.7.2
