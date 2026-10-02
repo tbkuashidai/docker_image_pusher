@@ -1,4 +1,4 @@
-ghcr.io/23star/xianyu-super-butler:latest@sha256:8e9e54d44410d358f9a96c4835606c27a1115aeeba4fdfeb5ea92807bf84bee4
+ghcr.io/23star/xianyu-super-butler:latest@sha256:60199771f2c96cc6eae4b6226206ac0c91cca1b4084be8cfb54c6cb3bbf32471
 #--platform=linux/amd64 zerotier/zerotier:latest
 #triatk/univpn:10781.18.1.512
 #registry.cn-shanghai.aliyuncs.com/zhinian-software/xianyu-auto-reply:1.0
